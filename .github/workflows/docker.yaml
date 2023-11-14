@@ -5,7 +5,7 @@ on:
     tags: ["v*.*.*"]
 
 env:
-  IMAGE_NAME: Reconomee-frontendpage
+  IMAGE_NAME: reconomee-frontendpage
 
 jobs:
   build:
